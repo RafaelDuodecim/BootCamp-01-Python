@@ -1,1 +1,8 @@
-# Bootcamp Jornada de Dados
+
+print("hello word")
+
+
+print("Bora time" " " "Guilherme rodou")
+
+
+input("Seu nome: ")
